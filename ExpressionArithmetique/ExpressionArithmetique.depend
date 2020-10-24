@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1546084295 source:c:\workspace\c\expressionarithmetique\main.c
+	"header.h"
+
+1546083938 c:\workspace\c\expressionarithmetique\header.h
+	<stdio.h>
+	<stdlib.h>
+
